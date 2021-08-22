@@ -1,1 +1,3 @@
-echo Hello Git and GitHub
+Hello Git and GitHub
+
+Making this change and that change
